@@ -1,0 +1,18 @@
+.grid-container {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif,;
+}
+
+h2 {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.rose2 {
+    text-align: center;
+}
+
+.oldlady {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 90px;
+}
